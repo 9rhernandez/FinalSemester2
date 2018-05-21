@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body bgcolor="#E6E6FA">
+
+
+        <section>
+            <h1 id="title">Swimming strokes</h1>
+            <p id="site-description">Today ill be talking about the different types of swimming strokes used in todays world.</p>
+            <img id="michaelphelps" src="https://media.giphy.com/media/l2JdZwA4Ub8QSj8pa/giphy.gif" alt="swimmming">
+            <h2 id="Strokes">Freestyle</h2>
+            <p id="description">The freestyle stroke, also known as front crawl,
+                is the fastest and most efficient of the competitive swimming strokes.</p>
+            <img id="freestylepic" src="http://www.enjoy-swimming.com/wp-content/uploads/freestyle-stroke-2.jpg" alt="Freestyle">
+            <h3 id="Strokes">Backstroke</h3>
+            <p id="description">a swimming stroke executed on the back and usually
+                 consisting of alternating circular arm pulls and a flutter kick.</P>
+            <img id="backstrokepic" src="http://3.bp.blogspot.com/-oeHzaihYxNQ/Ui17y4kkAaI/AAAAAAAAA2M/ZnRMy-y0I9M/s1600/wilkinson-100619-620-thumb-620xauto-175429.jpg" alt="Backstroke">
+            <h4 id="Strokes">BreastStroke</h4>
+            <p id="description">Breaststroke is a swimming
+                 style in which the swimmer is on their chest and the torso does not rotate.</p>
+            <img id="breaststrokepic" src="https://swimmingdaily.files.wordpress.com/2015/07/breastroke.jpg" alt="Breaststroke">
+            <h5 id="Strokes">Butterfly</h5>
+            <p id=" description">The butterfly is a swimming stroke swum on the chest,
+                 with both arms moving symmetrically, accompanied by the butterfly kick.</p>
+            <img id="butterflypic" src="http://www.enjoy-swimming.com/wp-content/uploads/butterfly-stroke-1.jpg" alt="Butterfly">
+
+
+
+
+
+
+
+        </section>
+
+
+    </body>
+</html>

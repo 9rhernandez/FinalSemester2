@@ -1,0 +1,43 @@
+#title{
+    font-size:50px;
+    color: white;
+    text-align: center;
+    background-color: DodgerBlue;
+    border:2px solid Violet;
+}
+#site-description{
+    font-size:25px;
+    color: white;
+    text-align: center;
+    background-color: DodgerBlue;
+}
+#freestylepic{
+    height:
+    width:
+}
+#breaststrokepic{
+    height: 250px;
+    width: 500px;
+}
+#backstrokepic{
+    height: 250px;
+    width: 400px;
+}
+#butterflypic{
+    height: 250px;
+    width:400;
+}
+#michaelphelps{
+    height: 250px;
+    width: 400px;
+}
+#Strokes{
+    font-size: 150%;
+    color: MediumSeaGreen;
+}
+
+#description{
+    font-size:
+    color:
+    text-align:
+}
